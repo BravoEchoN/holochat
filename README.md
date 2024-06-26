@@ -2,8 +2,6 @@ My chatbot inspired by the hologram program in 'iRobot', mirroring Dr. Lanning's
 
 It processes user queries by leveraging stored knowledge and can expand its knowledge base through enabled learning functionalities. Incorporating advanced AI techniques such as a Word2Vec model for semantic analysis, the chatbot continually improves its interaction abilities. It emphasizes security with data encryption and offers robust configuration management, ensuring a dependable platform for developing interactive chatbot applications.
 
-That description inspired the logo using stable diffusion to create it.
-
 Instructions:
 
 Add your OpenAI API key:
